@@ -1,0 +1,11 @@
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\obj\Debug\netcoreapp2.1\Warriors.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\obj\Debug\netcoreapp2.1\Warriors.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\obj\Debug\netcoreapp2.1\Warriors.AssemblyInfoInputs.cache
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\obj\Debug\netcoreapp2.1\Warriors.AssemblyInfo.cs
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\bin\Debug\netcoreapp2.1\Warriors.deps.json
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\bin\Debug\netcoreapp2.1\Warriors.runtimeconfig.json
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\bin\Debug\netcoreapp2.1\Warriors.runtimeconfig.dev.json
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\bin\Debug\netcoreapp2.1\Warriors.dll
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\bin\Debug\netcoreapp2.1\Warriors.pdb
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\obj\Debug\netcoreapp2.1\Warriors.dll
+C:\Users\Konrad\source\repos\CsharpOther\Warriors\Warriors\obj\Debug\netcoreapp2.1\Warriors.pdb
